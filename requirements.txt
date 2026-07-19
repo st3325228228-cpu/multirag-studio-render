@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+scikit-learn
+groq
+pypdf
+python-docx
+supabase
